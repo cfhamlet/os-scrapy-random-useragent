@@ -28,7 +28,6 @@ pip install os-scrapy-random-useragent
     DOWNLOADER_MIDDLEWARES = {
         "os_scrapy_random_useragent.RandomUserAgentMiddleware": 543,
     }
-    
     ```
 
 * config useragents:
