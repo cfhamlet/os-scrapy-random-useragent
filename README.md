@@ -1,5 +1,10 @@
 # os-scrapy-random-useragent
 
+[![Build Status](https://www.travis-ci.org/cfhamlet/os-scrapy-random-useragent.svg?branch=master)](https://www.travis-ci.org/cfhamlet/os-scrapy-random-useragent)
+[![codecov](https://codecov.io/gh/cfhamlet/os-scrapy-random-useragent/branch/master/graph/badge.svg)](https://codecov.io/gh/cfhamlet/os-scrapy-random-useragent)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/os-scrapy-random-useragent.svg)](https://pypi.python.org/pypi/os-scrapy-random-useragent)
+[![PyPI](https://img.shields.io/pypi/v/os-scrapy-random-useragent.svg)](https://pypi.python.org/pypi/os-scrapy-random-useragent)
+
 This project provide a [Downloader Middleware](https://docs.scrapy.org/en/latest/topics/downloader-middleware.html) to change 'User-Agent' of request headers.
 
 
