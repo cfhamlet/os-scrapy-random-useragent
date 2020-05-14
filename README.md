@@ -35,7 +35,7 @@ pip install os-scrapy-random-useragent
     - by file:
 
         ```
-        USER_AGENTS = "./your-useragets-file"
+        USER_AGENTS = "./your-useragents-file"
         ```
 
     - by string:
