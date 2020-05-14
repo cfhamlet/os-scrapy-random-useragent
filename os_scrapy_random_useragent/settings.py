@@ -56,7 +56,7 @@ DOWNLOADER_MIDDLEWARES = {
     "os_scrapy_random_useragent.RandomUserAgentMiddleware": 543,
 }
 
-USER_AGENTS = "./data/pc.lst"
+USER_AGENTS = "./useragents/pc.lst"
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
